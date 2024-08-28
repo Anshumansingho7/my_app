@@ -70,7 +70,7 @@
 
     <!-- Gender -->
     <div class="form-group">
-      <label>Gender:</label>
+      <label for="gender">Gender:</label>
       <div class="radio-group">
         <input type="radio" id="male" name="gender" value="male" bind:group={gender} required />
         <label for="male">Male</label>
